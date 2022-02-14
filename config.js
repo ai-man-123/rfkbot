@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['+1 (775) 403-5736','6289505165400'] // Put your number here //owner eval
-global.kontak = ['+1 (775) 403-5736','6289505165400'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/', ''] // ganti jadi group lu
+global.owner = ['60102810046','0'] // Put your number here //owner eval
+global.kontak = ['60102810046','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['6010281004y','6289505165400','0'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -31,7 +31,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey' (apikey kalian)
+  // 'https://website': 'https://s.id/yoaiman' (apikey kalian)
   'https://api.xteam.xyz': 'Dawnfrostkey',
   'https://api.lolhuman.xyz': 'RFK-Rey',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
@@ -45,22 +45,22 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namagithub = 'https://github.com/ai-man-123'
 kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXzy 1'
-namakontak2 = 'AlyaaXzy 2'
+namakontak1 = 'Aiman'
+namakontak2 = 'whatsapp'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = 'By Aiman' // ganti aja
+global.author = 'Aiman' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
-footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+bc = 'Aiman' //Aiman Broadcast
+footer = '\n©Aiman'
+namabot = 'Aiman'
+namalu = 'Aiman'
 
 
 // 
@@ -72,7 +72,7 @@ global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
-// Ubah saja SC dari AlyaaXzy
+// Ubah saja SC dari Aiman
 global.image = 'https://telegra.ph/file/338349c86c4fcd540968b.png'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
